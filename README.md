@@ -14,6 +14,7 @@ Solution to <a href="https://www.hackerearth.com/challenges/">Algorithms</a> pro
     <th>Difficulty Level</th>
     <th width="50%">Problem</th>
     <th>Max. Score</th>
+    <th>Language</th>
     <th>Solution</th>
   </tr>
   <tr>
@@ -23,6 +24,7 @@ Solution to <a href="https://www.hackerearth.com/challenges/">Algorithms</a> pro
     <td>Easy</td>
     <td><a href="https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/lexical-analyzer-3/description/">Lexical Analyzer</a></td>
     <td>20</td>
+    <td>C#</td>
     <td><a href="https://github.com/amitverma80/HackerEarth/blob/main/LexicalAnalyzer.cs">Solution</a></td>
   </tr> 
 </table>  
