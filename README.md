@@ -18,7 +18,7 @@ Solution to <a href="https://www.hackerearth.com/challenges/">Algorithms</a> pro
     <th>Solution</th>
   </tr>
   <tr>
-    <td colspan="4" style="align:center">String Algorithms</td>
+    <td colspan="5" style="align:center">String Algorithms</td>
   </tr>  
   <tr>
     <td>Easy</td>
