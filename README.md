@@ -1,4 +1,4 @@
-# HackerEarth
+# HackerEarth-Algorithms
 
 
 <html>
