@@ -22,7 +22,7 @@ Solution to <a href="https://www.hackerrank.com/domains/sql?badge_type=sql">SQL<
   <tr>
     <td>Easy</td>
     <td><a href="https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/lexical-analyzer-3/description/">Lexical Analyzer</a></td>
-    <td>25</td>
+    <td>20</td>
     <td><a href="https://github.com/amitverma80/HackerEarth/blob/main/LexicalAnalyzer.cs">Solution</a></td>
   </tr> 
 </table>  
