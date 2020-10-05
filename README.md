@@ -21,11 +21,15 @@ Solution to <a href="https://www.hackerearth.com/challenges/">Algorithms</a> pro
     <td colspan="5" style="align:center">String Algorithms</td>
   </tr>  
   <tr>
-    <td>Easy</td>
-    <td><a href="https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/lexical-analyzer-3/description/">Lexical Analyzer</a></td>
-    <td>20</td>
+    <td rowspan="2">Easy</td>
+    <td rowspan="2"><a href="https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/lexical-analyzer-3/description/">Lexical Analyzer</a></td>
+    <td rowspan="2">20</td>
     <td>C#</td>
     <td><a href="https://github.com/amitverma80/HackerEarth/blob/main/LexicalAnalyzer.cs">Solution</a></td>
+  </tr> 
+  <tr>    
+    <td>GO</td>
+    <td><a href="https://github.com/amitverma80/HackerEarth/blob/main/LexicalAnalyzer.go">Solution</a></td>
   </tr> 
 </table>  
 <body> 
