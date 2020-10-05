@@ -12,8 +12,8 @@ Solution to <a href="https://www.hackerearth.com/challenges/">Algorithms</a> pro
 <table width="100%"> 
   <tr>
     <th width="20%">Difficulty Level</th>
-    <th width="50%">Problem</th>
-    <th width="10%">Max. Score</th>
+    <th width="45%">Problem</th>
+    <th width="15%">Max. Score</th>
     <th width="10%">Language</th>
     <th width="10%">Solution</th>
   </tr>
