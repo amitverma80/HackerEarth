@@ -31,6 +31,17 @@ Solution to <a href="https://www.hackerearth.com/challenges/">Algorithms</a> pro
     <td>GO</td>
     <td><a href="https://github.com/amitverma80/HackerEarth/blob/main/LexicalAnalyzer.go">Solution</a></td>
   </tr> 
+  <tr>
+    <td colspan="5" style="align:center">BFS</td>
+  </tr> 
+ <tr>    
+    <td>Easy</td>
+   <td><a href="https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/monk-and-the-islands/description/">Monk and the Islands</a></td>
+    <td>20</td>
+    <td>C#</td>
+    <td><a href="https://github.com/amitverma80/HackerEarth/blob/main/MonkandtheIslands.cs">Solution</a></td>
+  </tr> 
+  <tr>
 </table>  
 <body> 
 <html> 
